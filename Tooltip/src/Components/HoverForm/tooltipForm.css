@@ -1,0 +1,29 @@
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.form-container .content-container input{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid #000000;
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.form-container .position-container select{
+    height: 50px;
+    width: 320px;
+    font-size: 1.3rem;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}

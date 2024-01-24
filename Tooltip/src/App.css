@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #d3eee1;   
+    background-size: 106%;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .App{
+    width: 99vw;
+    height: 99vh;
+  }
+
+  .app-heading{
+    height: 45px;
+    width: 100vw;
+    background-color: midnightblue;
+    color: white;
+    opacity: 0.8;
+    margin-top: 0px;
+    text-align: center;
+    padding: 10px;
+  }

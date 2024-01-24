@@ -1,0 +1,24 @@
+#button-container {
+    width: 23%;
+    height: 15%;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+.hover-btn {
+    height: 50%;
+    width: 56%;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: 600;
+    border: none;
+    background-color: rgb(32, 100, 114);
+}
+
+.hover-btn:hover {
+    cursor: pointer;
+    color: rgb(255, 254, 254);
+    opacity: 0.6;
+    background-color: rgb(25, 70, 79);
+
+}
